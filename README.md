@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Emre.
 
-Full-stack web dovelopment student and a musician from Turkey.
+Full-stack web development student and a musician from Turkey.
 
 - I'm currently enrolled in Microverse.
 - I'm studying and creating projects utilizing technologies such as JavaScript, React, Redux, and Ruby.
