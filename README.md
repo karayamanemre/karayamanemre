@@ -10,9 +10,3 @@ Full-stack web development student and a musician from Turkey.
 ##### Twitter: [@KarayamanEmre](https://twitter.com/KarayamanEmre)
 ##### Soundcloud: [Emre Karayaman](https://soundcloud.com/emrekarayaman)
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" style="height: 165px;" src="https://github-readme-stats.vercel.app/api?username=karayamanemre&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karayamanemre&layout=compact&show_icons=true&theme=transparent" />
-</a>
