@@ -1,12 +1,11 @@
 ### Hi there 👋 I'm Emre.
 
-Full-stack web development student and a musician from Turkey.
+Full-stack Web Developer and Musician from Turkey.
 
-- I'm currently enrolled in Microverse.
-- I'm studying and creating projects utilizing technologies such as JavaScript, React, Redux, and Ruby.
-- I'm able to work remotely with people from all backgrounds and communicate clearly and assertively.
-- How to reach me: 
-##### LinkedIn: [Emre Karayaman](https://www.linkedin.com/in/emre-karayaman-a7b45b243/)
+- Creating projects utilizing technologies such as JavaScript, React, Redux, and Ruby on Rails.
+- How to reach me:
+##### Personal Website: [Emre Karayaman](https://emrekarayaman.me)
+##### LinkedIn: [Emre Karayaman](https://www.linkedin.com/in/emre-karayaman/)
 ##### Twitter: [@KarayamanEmre](https://twitter.com/KarayamanEmre)
 ##### Soundcloud: [Emre Karayaman](https://soundcloud.com/emrekarayaman)
 
